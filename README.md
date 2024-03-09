@@ -7,7 +7,7 @@ Welcome to our Voice Assistant, a professional-grade AI designed to streamline y
    - Open Google, YouTube, or Stack Overflow instantly for quick access to information.
 
 2. **Information Retrieval:**
-   - Search Wikipedia for concise and accurate information on a wide array of topics.
+   - Search Wikipedia for concise and accurate information on various topics.
 
 3. **Development Assistance:**
    - Open Visual Studio Code (VSCode) to dive into coding projects seamlessly.
